@@ -245,3 +245,7 @@ a {
 .cf {
   zoom:1;
 }
+
+canvas {
+    border: 1px solid #555;
+}
